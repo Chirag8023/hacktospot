@@ -1,14 +1,16 @@
 // script.js
 
+const dataCache = {};
+
 window.onload = function() {
-    loadData('projects');
+    loadData('projects'); // Load default data initially
     setupTabs();
 };
 
 function setupTabs() {
     const buttons = document.querySelectorAll('.tab-button');
     buttons.forEach(button => {
-        button.addEventListener('click', function() {
+        button.addEventListener('click', async function() {
             // Remove 'active' class from all buttons
             buttons.forEach(btn => btn.classList.remove('active'));
             // Add 'active' class to the clicked button
@@ -16,7 +18,11 @@ function setupTabs() {
             
             // Load corresponding data
             const type = this.getAttribute('data-type');
-            loadData(type);
+            if (dataCache[type]) {
+                displayTable(dataCache[type], type);
+            } else {
+                await loadData(type);
+            }
         });
     });
 
@@ -48,6 +54,7 @@ async function loadData(type) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
+        dataCache[type] = data; // Cache the data
         displayTable(data, type);
     } catch (error) {
         console.error('Error loading data:', error);
