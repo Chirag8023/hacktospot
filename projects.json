@@ -1,74 +1,8 @@
 [
     {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
-    },
-    {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
-    },
-    {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
-    },
-    {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
-    },
-    {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
-    },
-    {
-        "organization": "Project A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project A",
-        "link": "https://example.com/project-a"
-    },
-    {
-        "organization": "Project B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Contribute to Project B",
-        "link": "https://example.com/project-b"
+        "organization": "Vaunt",
+        "logo": "https://docs.vaunt.dev/img/vaunt-nav-logo-light.png",
+        "description": "TQLA welcomes your contributions during the hacktoberfest! If you complete the tasks we set in the TQLA repository, we'll get digital badges!",
+        "link": "https://x.com/VauntDev/status/1833552182022377815"
     }
 ]

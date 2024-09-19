@@ -1,16 +1,23 @@
 [
     {
-        "organization": "Hackathon A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Join Hackathon A",
-        "date": "2024-10-05",
-        "link": "https://example.com/hackathon-a"
+        "organization": "Chimoney",
+        "logo": "https://chimoney.io/assets/icons/chimoney-purple-logo.svg",
+        "description": "Chimoney Hacktoberfest 2024 Kickoff!",
+        "date": "27/09/24",
+        "link": "https://lu.ma/0zsb536m"
     },
     {
-        "organization": "Webinar B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Attend Webinar B",
-        "date": "2024-10-12",
-        "link": "https://example.com/webinar-b"
+        "organization": "MLH",
+        "logo": "https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg",
+        "description": "Spending a week exploring Open Source. Join us to learn how to start making contributions to Open Source projects!",
+        "date": "04/10/24 to 10/10/24",
+        "link": "https://ghw.mlh.io/events/open-source"
+    },
+    {
+        "organization": "GirlScript Foundation",
+        "logo": "https://gssoc.girlscript.tech/GS_logo_Black.svg",
+        "description": "GirlScript Summer of Code Extd is a 1-month long #OpenSource  program by GirlScript Foundation.",
+        "date": "29/09/24",
+        "link": "https://gssoc.girlscript.tech/"
     }
 ]

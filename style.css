@@ -94,10 +94,15 @@ header img:hover {
 .table-content td {
   padding: 8px;
   text-align: left;
+  max-width: 10rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 1.5;
 }
 
 .table-content td {
   border: 1px solid #183717;
+  padding: 1rem;
 }
 
 .table-content th {

@@ -1,16 +1,23 @@
 [
     {
-        "organization": "Challenge A",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Complete Challenge A",
-        "date": "2024-09-30",
-        "link": "https://example.com/challenge-a"
+        "organization": "Quira",
+        "logo": "https://quira.sh/images/quira-logo.svg",
+        "description": "Earn rewards and develop new skills by contributing to open source or creating new projects.",
+        "date": "N/A",
+        "link": "https://quira.sh/quests/creator"
     },
     {
-        "organization": "Challenge B",
-        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
-        "description": "Complete Challenge B",
-        "date": "2024-10-10",
-        "link": "https://example.com/challenge-b"
+        "organization": "DEVFEST AI",
+        "logo": "https://devfest.ai/svgs/Logo.svg",
+        "description": "Contribute code to AI repositories, meet new people, Participate in events and win awesome SWAG.",
+        "date": "01/10/24 to 31/10/24",
+        "link": "https://devfest.ai/"
+    },
+    {
+        "organization": "DEV.TO",
+        "logo": "https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png",
+        "description": "Community Web Game Challenge 👾",
+        "date": "until 29/09/24",
+        "link": "https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo"
     }
 ]
