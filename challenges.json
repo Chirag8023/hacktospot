@@ -1,0 +1,16 @@
+[
+    {
+        "organization": "Challenge A",
+        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
+        "description": "Complete Challenge A",
+        "date": "2024-09-30",
+        "link": "https://example.com/challenge-a"
+    },
+    {
+        "organization": "Challenge B",
+        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
+        "description": "Complete Challenge B",
+        "date": "2024-10-10",
+        "link": "https://example.com/challenge-b"
+    }
+]

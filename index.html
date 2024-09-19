@@ -3,9 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HacktoSpot</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap">
+    <link rel="stylesheet" href="style.css">
+    <title>HACKTOSPOT</title>
 </head>
 <body>
-    
+    <header>
+        <div class="header-left">
+            <h1>HACKTOSPOT</h1>
+            <p>let's celebrate open source together!</p>    
+        </div>
+        <div class="header-right">
+        </p>By Chirag Arora :</p>
+            <a href="https://github.com/chirag8023" target="_blank"><img src="github.svg"></a>
+            <a href="https://x.com/Chirag8023" target="_blank"><img src="x.svg"></a>
+        </div>
+    </header>
+
+    <div class="bill">
+        <div class="tab-bar">
+            <button class="tab-button active" onclick="loadData('projects')">Projects</button>
+            <button class="tab-button" onclick="loadData('events')">Events</button>
+            <button class="tab-button" onclick="loadData('challenges')">Challenges</button>
+        </div>
+        <div id="data-table" class="table-content">
+            <!-- Table will be loaded dynamically here -->
+        </div>
+    </div>
+        
+    <script src="script.js"></script>
 </body>
 </html>

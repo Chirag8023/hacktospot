@@ -1,0 +1,16 @@
+[
+    {
+        "organization": "Hackathon A",
+        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
+        "description": "Join Hackathon A",
+        "date": "2024-10-05",
+        "link": "https://example.com/hackathon-a"
+    },
+    {
+        "organization": "Webinar B",
+        "logo": "https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png",
+        "description": "Attend Webinar B",
+        "date": "2024-10-12",
+        "link": "https://example.com/webinar-b"
+    }
+]
