@@ -3,7 +3,7 @@
 const dataCache = {};
 
 window.onload = function() {
-    loadData('projects'); // Load default data initially
+    loadData('events'); // Load default data initially
     setupTabs();
 };
 
