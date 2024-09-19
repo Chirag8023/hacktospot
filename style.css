@@ -2,8 +2,8 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  color: #183717;
-  background-color: #50da4c;
+  color: #1c1c1c;
+  background-color: #50da4cee;
 }
 
 a {
@@ -13,8 +13,8 @@ a {
 header {
   display: grid;
   grid-template-columns: 7.6fr 2.4fr;
-  margin: 0.1rem 1rem;
-  border: 4px solid #183717;
+  margin: 0 0;
+  border: 4px solid #1c1c1c;
   text-align: left;
   font-weight: 700;
 }
@@ -22,7 +22,7 @@ header {
 .header-right {
   background-color: #f3f0e0;
   padding: 10px; /* Optional: Add padding to the right side for better spacing */
-  border-left: 4px solid #183717;
+  border-left: 4px solid #1c1c1c;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -52,9 +52,9 @@ header img:hover {
 }
 
 .tab-button {
-  background-color: #183717;
+  background-color: #1c1c1c;
   color: #50da4c;
-  border: 2px solid #183717;
+  border: 2px solid #1c1c1c;
   padding: 10px 20px;
   margin: 0 5px;
   cursor: pointer;
@@ -65,13 +65,13 @@ header img:hover {
 
 .tab-button:hover {
   background-color: #50da4c;
-  color: #183717;
+  color: #1c1c1c;
 }
 
 .tab-button.active {
   background-color: #f3f0e0;
-  color: #183717;
-  border: 2px solid #183717;
+  color: #1c1c1c;
+  border: 2px solid #1c1c1c;
 }
 
 
@@ -80,7 +80,7 @@ header img:hover {
 .table-content {
   display: block;
   /* Make it visible */
-  margin: 1rem;
+  margin: 0 0;
 }
 
 .table-content table {
@@ -101,13 +101,13 @@ header img:hover {
 }
 
 .table-content td {
-  border: 1px solid #183717;
+  border: 1px solid #1c1c1c;
   padding: 1rem;
 }
 
 .table-content th {
-  background-color: #183717;
-  border-left: 1px solid #183717;
+  background-color: #1c1c1c;
+  border-left: 1px solid #1c1c1c;
   color: #50da4c;
   position: -webkit-sticky;
   /* For Safari */
@@ -121,7 +121,7 @@ header img:hover {
 }
 
 .table-content thead th {
-  background-color: #183717;
+  background-color: #1c1c1c;
   background-clip: padding-box;
   /* Ensure background color extends correctly */
 }
@@ -134,4 +134,59 @@ header img:hover {
 .table-content td div {
   text-align: center;
   margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+
+  header {
+    margin: 0 0;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .header-right {
+    border-left: none;
+    border-top: 4px solid #1c1c1c;
+    justify-content: center;
+  }
+
+  .header-left, .header-right {
+    text-align: center;
+    padding: 5px;
+  }
+
+  .tab-button {
+    font-size: 0.9rem;
+    padding: 8px 10px;
+    margin: 5px;
+  }
+  .table-content {
+    margin: 0;
+  }
+
+  .table-content th, 
+  .table-content td {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .tab-button {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+  }
+
+  .table-content th, 
+  .table-content td {
+    font-size: 0.9rem;
+    padding: 5px;
+  }
+
+  header h1 {
+    font-size: 1.2em;
+  }
+
+  header p {
+    font-size: 0.9rem;
+  }
 }
