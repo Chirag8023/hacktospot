@@ -1,5 +1,12 @@
 [
     {
+        "organization": "Hacktoberfest",
+        "logo": "https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg",
+        "description": "A month-long celebration of all things open-source",
+        "date": "01/10/24 to 31/10/24",
+        "link": "https://hacktoberfest.com"
+    },
+    {
         "organization": "Chimoney",
         "logo": "https://chimoney.io/assets/icons/chimoney-purple-logo.svg",
         "description": "Chimoney Hacktoberfest 2024 Kickoff!",
