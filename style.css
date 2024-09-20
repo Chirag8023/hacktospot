@@ -108,6 +108,7 @@ header img:hover {
 .table-content th {
   background-color: #1c1c1c;
   border-left: 1px solid #1c1c1c;
+  border-right: 1px solid #1c1c1c;
   color: #50da4c;
   position: -webkit-sticky;
   /* For Safari */
@@ -178,8 +179,8 @@ header img:hover {
 
   .table-content th, 
   .table-content td {
-    font-size: 0.9rem;
-    padding: 5px;
+    font-size: 0.7rem;
+    padding: 6px;
   }
 
   header h1 {
