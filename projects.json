@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Mattermost",
+        "logo": "https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/mattermost-logo-horizontal.svg",
+        "description": "several different opportunities for community members to participate with Mattermost and Hacktoberfest and earn digital swag! Mattermost also planted a tree for every contribution, matching your commitment to open source with a commitment to the planet.",
+        "link": "https://mattermost.com/hacktoberfest/"
+    },
+    {
         "organization": "Vaunt",
         "logo": "https://docs.vaunt.dev/img/vaunt-nav-logo-light.png",
         "description": "TQLA welcomes your contributions during the hacktoberfest! If you complete the tasks we set in the TQLA repository, we'll get digital badges!",
