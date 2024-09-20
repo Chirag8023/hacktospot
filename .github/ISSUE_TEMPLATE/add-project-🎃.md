@@ -2,7 +2,7 @@
 name: "Add Project \U0001F383"
 about: Please provide the following information about project.
 title: ''
-labels: ''
+labels: hacktoberfest, project
 assignees: ''
 
 ---
