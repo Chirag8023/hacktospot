@@ -15,7 +15,7 @@
     },
     {
         "organization": "DEV.TO",
-        "logo": "https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png",
+        "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png",
         "description": "Community Web Game Challenge 👾",
         "date": "until 29/09/24",
         "link": "https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo"
