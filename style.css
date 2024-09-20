@@ -21,7 +21,8 @@ header {
 
 .header-right {
   background-color: #f3f0e0;
-  padding: 10px; /* Optional: Add padding to the right side for better spacing */
+  padding: 10px;
+  /* Optional: Add padding to the right side for better spacing */
   border-left: 4px solid #1c1c1c;
   display: flex;
   align-items: center;
@@ -93,6 +94,12 @@ header img:hover {
 .add-button:hover {
   background-color: #50da4c;
   color: #1c1c1c;
+}
+
+.add-button:active {
+  background-color: #f3f0e0;
+  color: #1c1c1c;
+  border: 2px solid #1c1c1c;
 }
 
 /* style.css */
@@ -171,7 +178,8 @@ header img:hover {
     justify-content: center;
   }
 
-  .header-left, .header-right {
+  .header-left,
+  .header-right {
     text-align: center;
     padding: 5px;
   }
@@ -180,16 +188,22 @@ header img:hover {
     font-size: 0.9rem;
     padding: 8px 10px;
   }
+
   .add-button {
     font-size: 0.9rem;
     padding: 8px 10px;
+  }
+
+  .add-button:hover {
+    color: #50da4c;
+    background-color: #1c1c1c;
   }
 
   .table-content {
     margin: 0;
   }
 
-  .table-content th, 
+  .table-content th,
   .table-content td {
     font-size: 1rem;
   }
@@ -200,12 +214,18 @@ header img:hover {
     font-size: 0.8rem;
     padding: 5px 7px;
   }
+
   .add-button {
     font-size: 0.8rem;
     padding: 5px 7px;
   }
 
-  .table-content th, 
+  .add-button:hover {
+    color: #50da4c;
+    background-color: #1c1c1c;
+  }
+
+  .table-content th,
   .table-content td {
     font-size: 0.7rem;
     padding: 6px;
