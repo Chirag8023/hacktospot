@@ -26,7 +26,7 @@ You can contribute by adding new events, projects, or challenges to the appropri
      "organization": "Organization Name",
      "logo": "URL to the organization's logo",
      "description": "Short description of the event",
-     "date": "Event date (e.g., 01/10/24 to 31/10/24)",
+     "date": "Event date (e.g. 01/10/24 to 31/10/24)",
      "link": "URL to event details"
    }
    ```
@@ -47,7 +47,7 @@ You can contribute by adding new events, projects, or challenges to the appropri
      "organization": "Organization Name",
      "logo": "URL to the organization's logo",
      "description": "Short description of the challenge",
-     "date": "Challenge date or N/A if ongoing",
+     "date": "Challenge date (e.g. 01/10/24 to 31/10/24)",
      "link": "URL to challenge details"
    }
    ```
