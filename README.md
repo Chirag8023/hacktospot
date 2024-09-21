@@ -74,7 +74,7 @@ For detailed instructions on how to contribute, refer to the [contribution guide
     "organization": "Organization Name",
     "logo": "URL to the organization's logo",
     "description": "Short description of the challenge",
-    "date": "Challenge date or N/A if ongoing",
+    "date": "Challenge date (e.g., 01/10/24 to 31/10/24),
     "link": "URL to challenge details"
   }
   ```
