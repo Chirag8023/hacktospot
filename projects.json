@@ -1,5 +1,11 @@
 [
     {
+        "organization": "FreeCodeCamp",
+        "logo": "https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.svg",
+        "description": "The freeCodeCamp.org community is possible thanks to thousands of kind volunteers. Freecodecamp welcome all contributions to the community and are excited to welcome you aboard.",
+        "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
         "organization": "Mattermost",
         "logo": "https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/mattermost-logo-horizontal.svg",
         "description": "several different opportunities for community members to participate with Mattermost and Hacktoberfest and earn digital swag! Mattermost also planted a tree for every contribution, matching your commitment to open source with a commitment to the planet.",
