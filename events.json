@@ -1,5 +1,12 @@
 [
     {
+        "organization": "Tublian",
+        "logo": "https://www.tublian.com/static/media/logo_text_dark.948a68bb.svg",
+        "description": "AI-Powered Open Source Internship",
+        "date": "01/10/24 to 29/10/24",
+        "link": "https://www.tublian.com/internship"
+    },
+    {
         "organization": "Hacktoberfest",
         "logo": "https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg",
         "description": "A month-long celebration of all things open-source",
