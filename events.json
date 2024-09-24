@@ -1,5 +1,12 @@
 [
     {
+        "organization": "Microsoft 365 & Power Platform Community",
+        "logo": "https://pnp.github.io/recognitionprogram/images/hero-parker-recognition-program-p-800.png",
+        "description": "Microsoft 365 & Power Platform Community Recognition Program",
+        "date": "N/A",
+        "link": "https://pnp.github.io/recognitionprogram/"
+    },
+    {
         "organization": "Tublian",
         "logo": "https://www.tublian.com/static/media/logo_text_dark.948a68bb.svg",
         "description": "AI-Powered Open Source Internship",
