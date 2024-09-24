@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Instill AI",
+        "logo": "https://storage.googleapis.com/public-europe-west2-c-artifacts/imgs/instill-logo.png",
+        "description": "Join Instill AI on the occasion of Hacktoberfest 2024, They're thrilled to offer rewards, including Amazon gift cards and newly updated Instill Swag packages.",
+        "link": "https://www.instill.tech/blog/hacktoberfest-2024-opening?utm_source=website&utm_medium=link&utm_campaign=hacktoberfest-2024"
+    },
+    {
         "organization": "Turbot",
         "logo": "https://turbot.com/_next/image?url=%2Fimages%2Fturbot_logo_wordmark.svg&w=16&q=75",
         "description": "Turbot empowers Cloud and DevOps teams to conquer cloud complexity, Turbot is adding their own swag for contributions to their projects. They will offer unique Turbot stickers and t-shirts for no-code, low-code and high-code contributions.",
