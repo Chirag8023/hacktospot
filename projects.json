@@ -1,5 +1,17 @@
 [
     {
+        "organization": "Turbot",
+        "logo": "https://turbot.com/_next/image?url=%2Fimages%2Fturbot_logo_wordmark.svg&w=16&q=75",
+        "description": "Turbot empowers Cloud and DevOps teams to conquer cloud complexity, Turbot is adding their own swag for contributions to their projects. They will offer unique Turbot stickers and t-shirts for no-code, low-code and high-code contributions.",
+        "link": "https://turbot.com/blog/2024/09/hacktoberfest-2024?v1"
+    },
+    {
+        "organization": "Taipy",
+        "logo": "https://axeptio.imgix.net/2024/05/ed2045b7-e3c6-4296-a024-89115b1b0a1d.svg",
+        "description": "Code, Solve issues, & Win exclusive rewards 🎁🎁🎁 while making an impact!",
+        "link": "https://assorted-son-815.notion.site/HacktoberFest-2024-with-Taipy-2a5032a3f01642709e88ffaa5d0d169e"
+    },
+    {
         "organization": "FreeCodeCamp",
         "logo": "https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.svg",
         "description": "The freeCodeCamp.org community is possible thanks to thousands of kind volunteers. Freecodecamp welcome all contributions to the community and are excited to welcome you aboard.",
