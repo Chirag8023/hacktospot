@@ -1,5 +1,12 @@
 [
     {
+        "organization": "Hack This Fall",
+        "logo": "https://hackthisfall.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ba386696.png&w=640&q=75",
+        "description": "Hack This Fall 2024 Virtual is a 36-hour online hackathon happening for hackers and builders worldwide!",
+        "date": "08/11/24 to 10/11/24",
+        "link": "https://hackathon.hackthisfall.tech/virtual"
+    },
+    {
         "organization": "lab lab ai",
         "logo": "https://lablab.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flablab-logo.8496f44c.png&w=128&q=75",
         "description": "Reasoning with o1: Build a tool or application using OpenAI’s o1 new model to automate complex problem-solving.",
