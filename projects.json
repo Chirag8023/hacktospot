@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Gitlab",
+        "logo": "https://images.ctfassets.net/xz1dnu24egyd/1jFYOufBZ1ib2PLP9YI45r/5f67fe4a4b32a0ff5e012cb35e3272f3/gitlab-logo-100.svg",
+        "description": "GitLab Heroes Program",
+        "link": "https://about.gitlab.com/community/heroes/"
+    },
+    {
         "organization": "Auth0 by Okta",
         "logo": "https://pages.okta.com/rs/855-QAH-699/images/email-main-template_auth0-by-okta-logo_black_279x127_3x.png",
         "description": "Participate in Hacktoberfest and contribute to any of the projects in the Identity and Security space shortlisted by Auth0. The first 100 valid* submissions will get the T-shirt.",
