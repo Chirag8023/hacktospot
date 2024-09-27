@@ -3,7 +3,7 @@
         "organization": "Quira",
         "logo": "https://quira.sh/images/quira-logo.svg",
         "description": "Earn rewards and develop new skills by contributing to open source or creating new projects.",
-        "date": "N/A",
+        "date": "recurring",
         "link": "https://quira.sh/quests/creator"
     },
     {
@@ -16,8 +16,8 @@
     {
         "organization": "DEV.TO",
         "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png",
-        "description": "Community Web Game Challenge 👾",
-        "date": "until 29/09/24",
-        "link": "https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo"
+        "description": "DEV Challenges 👾",
+        "date": "recurring",
+        "link": "https://dev.to/challenges"
     }
 ]
