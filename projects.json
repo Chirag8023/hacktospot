@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Auth0 by Okta",
+        "logo": "https://pages.okta.com/rs/855-QAH-699/images/email-main-template_auth0-by-okta-logo_black_279x127_3x.png",
+        "description": "Participate in Hacktoberfest and contribute to any of the projects in the Identity and Security space shortlisted by Auth0. The first 100 valid* submissions will get the T-shirt.",
+        "link": "https://auth0.com/blog/announcing-authtoberfest-2024"
+    },
+    {
         "organization": "Instill AI",
         "logo": "https://storage.googleapis.com/public-europe-west2-c-artifacts/imgs/instill-logo.png",
         "description": "Join Instill AI on the occasion of Hacktoberfest 2024, They're thrilled to offer rewards, including Amazon gift cards and newly updated Instill Swag packages.",
