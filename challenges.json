@@ -1,5 +1,12 @@
 [
     {
+        "organization": "lab lab ai",
+        "logo": "https://lablab.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flablab-logo.8496f44c.png&w=128&q=75",
+        "description": "Reasoning with o1: Build a tool or application using OpenAI’s o1 new model to automate complex problem-solving.",
+        "date": "04/10/24 to 11/10/24",
+        "link": "https://lablab.ai/event/strawberry-reasoning-with-o1"
+    },
+    {
         "organization": "appwrite",
         "logo": "https://appwrite.io/images/logos/appwrite-light.svg",
         "description": "Appwrite’s Hacktoberfest 2024 Hackathon: Build, innovate, and win!",
