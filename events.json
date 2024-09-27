@@ -1,12 +1,5 @@
 [
     {
-        "organization": "Microsoft 365 & Power Platform Community",
-        "logo": "https://pnp.github.io/recognitionprogram/images/hero-parker-recognition-program-p-800.png",
-        "description": "Microsoft 365 & Power Platform Community Recognition Program",
-        "date": "N/A",
-        "link": "https://pnp.github.io/recognitionprogram/"
-    },
-    {
         "organization": "Tublian",
         "logo": "https://www.tublian.com/static/media/logo_text_dark.948a68bb.svg",
         "description": "AI-Powered Open Source Internship",
@@ -19,13 +12,6 @@
         "description": "A month-long celebration of all things open-source",
         "date": "01/10/24 to 31/10/24",
         "link": "https://hacktoberfest.com"
-    },
-    {
-        "organization": "Chimoney",
-        "logo": "https://chimoney.io/assets/icons/chimoney-purple-logo.svg",
-        "description": "Chimoney Hacktoberfest 2024 Kickoff!",
-        "date": "27/09/24",
-        "link": "https://lu.ma/0zsb536m"
     },
     {
         "organization": "MLH",
