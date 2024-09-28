@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Hyperswitch",
+        "logo": "https://mintlify.s3-us-west-1.amazonaws.com/juspay-78/logo/light.svg",
+        "description": "Get one PR merged to earn exclusive Hyperswitch swag. Get 3 or more PRs merged to receive a special swag kit from Hyperswitch.",
+        "link": "https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk"
+    },
+    {
         "organization": "Gitlab",
         "logo": "https://images.ctfassets.net/xz1dnu24egyd/1jFYOufBZ1ib2PLP9YI45r/5f67fe4a4b32a0ff5e012cb35e3272f3/gitlab-logo-100.svg",
         "description": "GitLab Heroes Program",
