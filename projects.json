@@ -1,5 +1,11 @@
 [
     {
+        "organization": "mindsdb",
+        "logo": "https://mintlify.s3-us-west-1.amazonaws.com/mindsdb/logo/light.svg",
+        "description": "Collect credits by completing GitHub issues and redeem them for prizes! For every 100 credits earned, you will receive one entry into the drawing to win one of three high end Razer™ Blade laptops.",
+        "link": "https://mindsdb.com/hacktoberfest"
+    },
+    {
         "organization": "Hyperswitch",
         "logo": "https://mintlify.s3-us-west-1.amazonaws.com/juspay-78/logo/light.svg",
         "description": "Get one PR merged to earn exclusive Hyperswitch swag. Get 3 or more PRs merged to receive a special swag kit from Hyperswitch.",
