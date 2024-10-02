@@ -1,5 +1,11 @@
 [
     {
+        "organization": "JavaScript Today",
+        "logo": "https://javascripttoday.com/images/js_hue0057b4d5aad256cee9ec82f09ecc831_49954_95x0_resize_q90_h2_box_3.webp",
+        "description": "Get a Free JavaScript Today Sticker",
+        "link": "https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/"
+    },
+    {
         "organization": "Shuru",
         "logo": "",
         "description": "Shuru is a basic command / task runner written in Rust, so if you're beginner in Rust and want to contribute to open source, this is the right place for you. Also get 5 cool Rust Stickers 🎴",
