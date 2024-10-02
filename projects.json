@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Research Pocket",
+        "logo": "https://avatars.githubusercontent.com/u/159684223?s=200&v=4",
+        "description": "A simple self-hostable save-it-later tool that integrates with getpocket.com the web and terminal written in Rust.",
+        "link": "https://github.com/ResearchPocket/ResearchPocket"
+    },
+    {
         "organization": "chimoney",
         "logo": "https://camo.githubusercontent.com/44fc3795e1a244bb2228eab77e502b2e3c028e78b3a8082fd08d349e223e32e6/68747470733a2f2f6368696d6f6e65792e696f2f6173736574732f69636f6e732f6368696d6f6e65792d707572706c652d6c6f676f2e737667",
         "description": "Contributors will receive a Chimoney reward of $10 and Digital Badge. Contributors with up to 4 PRs will recieve t-shirts (limited  stock)",
