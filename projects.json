@@ -1,5 +1,11 @@
 [
     {
+        "organization": "chimoney",
+        "logo": "https://camo.githubusercontent.com/44fc3795e1a244bb2228eab77e502b2e3c028e78b3a8082fd08d349e223e32e6/68747470733a2f2f6368696d6f6e65792e696f2f6173736574732f69636f6e732f6368696d6f6e65792d707572706c652d6c6f676f2e737667",
+        "description": "Contributors will receive a Chimoney reward of $10 and Digital Badge. Contributors with up to 4 PRs will recieve t-shirts (limited  stock)",
+        "link": "https://github.com/Chimoney/chimoney-community-projects"
+    },
+    {
         "organization": "JavaScript Today",
         "logo": "https://javascripttoday.com/images/js_hue0057b4d5aad256cee9ec82f09ecc831_49954_95x0_resize_q90_h2_box_3.webp",
         "description": "Get a Free JavaScript Today Sticker",
