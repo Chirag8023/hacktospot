@@ -1,8 +1,14 @@
 [
     {
+        "organization": "Shuru",
+        "logo": "",
+        "description": "Shuru is a basic command / task runner written in Rust, so if you're beginner in Rust and want to contribute to open source, this is the right place for you. Also get 5 cool Rust Stickers 🎴",
+        "link": "https://github.com/harshdoesdev/shuru"
+    },
+    {
         "organization": "Cloudinary",
         "logo": "https://support.cloudinary.com/hc/theming_assets/01J4PJYD09XFVRPMSV8XCYZ8N1",
-        "description": " 50 Swag Kit available that will be given out on a first come, first served basis to contributors.",
+        "description": "50 Swag Kit available that will be given out on a first come, first served basis to contributors.",
         "link": "https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary"
     },
     {

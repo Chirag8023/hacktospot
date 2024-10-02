@@ -89,7 +89,7 @@ function displayTable(data, type) {
         const tr = document.createElement('tr');
         tr.innerHTML = `
             <td>
-                <img src="${item.logo}" alt="${item.organization} logo" width="100">
+                <img src="${item.logo}" alt="" width="100">
                 <div>${item.organization}</div>
             </td>
             <td>${item.description}</td>
