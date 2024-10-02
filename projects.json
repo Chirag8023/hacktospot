@@ -13,7 +13,7 @@
     },
     {
         "organization": "Shuru",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/harshdoesdev/shuru/f9abcb4586c5c3f0f715ca27c525f33004d41124/shuru.svg",
         "description": "Shuru is a basic command / task runner written in Rust, so if you're beginner in Rust and want to contribute to open source, this is the right place for you. Also get 5 cool Rust Stickers 🎴",
         "link": "https://github.com/harshdoesdev/shuru"
     },
