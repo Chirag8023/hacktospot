@@ -1,5 +1,65 @@
 [
     {
+        "organization": "Cloudinary",
+        "logo": "https://support.cloudinary.com/hc/theming_assets/01J4PJYD09XFVRPMSV8XCYZ8N1",
+        "description": " 50 Swag Kit available that will be given out on a first come, first served basis to contributors.",
+        "link": "https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary"
+    },
+    {
+        "organization": "CopilotKit",
+        "logo": "https://cdn.prod.website-files.com/6683cee6abdeb8fa5407debb/66f2d50487c7fbfb6a33140f_Logo.svg",
+        "description": "In hacktoberfest contribute to CopilotKit and Win Exclusive Swag!",
+        "link": "https://github.com/CopilotKit/CopilotKit/tree/main/community/content"
+    },
+    {
+        "organization": "tbd",
+        "logo": "https://developer.tbd.website/img/tbd-logo-square.svg",
+        "description": "Top 10 will win TBD x Hacktoberfest 2024 swag! The top 3 contributors from top 10 will be awarded very limited customized TBD x Hacktoberfest 2024 swag with their github username on it.",
+        "link": "https://developer.tbd.website/blog/hacktoberfest-2024"
+    },
+    {
+        "organization": "Lambdatest",
+        "logo": "https://www.lambdatest.com/resources/images/logos/logo.svg",
+        "description": "Contributors to our projects will get a chance to win:<br> - 3 Contributions: Amazon Vouchers (upto $10) + LambdaTest Licences (90 days) <br> - 5 Contributions or More: Amazon Vouchers (upto $20) + LambdaTest Licences (90 days).",
+        "link": "https://github.com/LambdaTest/lambdatest-hacktoberfest-2024"
+    },
+    {
+        "organization": "Composio",
+        "logo": "https://mintlify.s3-us-west-1.amazonaws.com/composio-27/logo/light.svg",
+        "description": "Participants with four accepted pull/merge requests between October 1 and October 31 will receive a swag pack from Composio.",
+        "link": "https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md"
+    },
+    {
+        "organization": "dstack",
+        "logo": "https://dstack.ai/assets/images/dstack-logo-notext.svg",
+        "description": "Every contributor whose PR is merged will receive GPU credits to use with dstack Sky for AI development! <br> also Bounties: Minor issue: $15, Major issue: $100, Advanced issue: $500",
+        "link": "https://github.com/dstackai/dstack/issues/1735"
+    },
+    {
+        "organization": "Ballerina",
+        "logo": "https://blog.ballerina.io/images/logo/ballerina-logo-grey.svg",
+        "description": "The contributors who make the most significant contributions to Ballerina during Hacktoberfest will be rewarded with the prizes.",
+        "link": "https://ballerina.io/hacktoberfest/"
+    },
+    {
+        "organization": "Tolgee",
+        "logo": "https://tolgee.io/img/tolgeeLogo.svg",
+        "description": "Earn points and get exclusive Tolgee swag, including stickers, socks, and T-shirts",
+        "link": "https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md"
+    },
+    {
+        "organization": "Animata by codse",
+        "logo": "https://animata.design/codse.webp",
+        "description": "Offering a $50 reward to one lucky contributor based on a raffle system.",
+        "link": "https://animata.design/blog/hacktoberfest-2024"
+    },
+    {
+        "organization": "ServiceNow",
+        "logo": "https://www.servicenow.com/resource_files/global-nav/images/servicenow-logo.svg",
+        "description": "Get Community Badge, ServiceNow Merch, Bragging rights. check the link for more info.",
+        "link": "https://www.servicenow.com/community/developer-advocate-blog/servicenow-hacktoberfest-2024/ba-p/3052690"
+    },
+    {
         "organization": "mindsdb",
         "logo": "https://mintlify.s3-us-west-1.amazonaws.com/mindsdb/logo/light.svg",
         "description": "Collect credits by completing GitHub issues and redeem them for prizes! For every 100 credits earned, you will receive one entry into the drawing to win one of three high end Razer™ Blade laptops.",
@@ -56,8 +116,8 @@
     {
         "organization": "Mattermost",
         "logo": "https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/mattermost-logo-horizontal.svg",
-        "description": "several different opportunities for community members to participate with Mattermost and Hacktoberfest and earn digital swag! Mattermost also planted a tree for every contribution, matching your commitment to open source with a commitment to the planet.",
-        "link": "https://mattermost.com/hacktoberfest/"
+        "description": "Get digital Mattermost badges",
+        "link": "https://mattermost.com/blog/hacktoberfest-2024/"
     },
     {
         "organization": "Vaunt",

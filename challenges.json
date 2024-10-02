@@ -1,5 +1,26 @@
 [
     {
+        "organization": "oss.gg",
+        "logo": "https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f579.svg",
+        "description": "oss.gg hackathon 2024 🕹️: complete code and non-code contributions to get points, each point is a lottery ticket, lottery happens on 31st of October 2024 🎃",
+        "date": "until 31/10/24",
+        "link": "https://oss.gg/"
+    },
+    {
+        "organization": "Truffle Security Co.",
+        "logo": "https://avatars.githubusercontent.com/u/79229934?s=200&v=4",
+        "description": "Detector Improvement Competition at Truffle Security!<br> - First Prize: 13-inch MacBook Air (M3) or $1,000 Amazon Gift Card <br> - Second Prize: Timbuk2 Backpack or $300 Amazon Gift Card <br> - Third Prize: Custom TruffleHog Swag or $100 Amazon Gift Card.",
+        "date": "01/10/24 to 31/10/24",
+        "link": "https://trufflesecurity.com/blog/hacktoberfest-2024-detector-improvement-competition-at-truffle-security"
+    },
+    {
+        "organization": "Massed Compute",
+        "logo": "https://massedcompute.com/wp-content/uploads/2023/08/MC-LOGO_Artboard-3-1024x109.png",
+        "description": "Enter Massed Compute's Hacktoberfest contest to win $100 in Free GPU compute credits.",
+        "date":"until 25/10/24",
+        "link": "https://massedcompute.com/generative-ai-hacktober-2024/"
+    },
+    {
         "organization": "Hack This Fall",
         "logo": "https://hackthisfall.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ba386696.png&w=640&q=75",
         "description": "Hack This Fall 2024 Virtual is a 36-hour online hackathon happening for hackers and builders worldwide!",
@@ -16,7 +37,7 @@
     {
         "organization": "appwrite",
         "logo": "https://appwrite.io/images/logos/appwrite-light.svg",
-        "description": "Appwrite’s Hacktoberfest 2024 Hackathon: Build, innovate, and win!",
+        "description": "Appwrite's Hacktoberfest 2024 Hackathon: Build, innovate, and win!",
         "date": "01/10/24 to 31/10/24",
         "link": "https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024"
     },
