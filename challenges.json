@@ -1,5 +1,12 @@
 [
     {
+        "organization": "DocsGPT",
+        "logo": "https://app.docsgpt.cloud/assets/cute_docsgpt3-CvY8uc7C.svg",
+        "description": "LLM Document Analysis by LexEU Competition:<br>🏅 Prizes:<br> 1st Place: $200 + Special Holopin <br> 2nd Place: $100 + Special Holopin <br> 3rd Place: $50 + Special Holopin",
+        "date": "01/10/24 to 27/10/24",
+        "link": "https://github.com/arc53/DocsGPT/blob/main/lexeu-competition.md"
+    },
+    {
         "organization": "oss.gg",
         "logo": "https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f579.svg",
         "description": "oss.gg hackathon 2024 🕹️: complete code and non-code contributions to get points, each point is a lottery ticket, lottery happens on 31st of October 2024 🎃",

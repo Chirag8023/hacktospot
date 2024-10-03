@@ -1,5 +1,53 @@
 [
     {
+        "organization": "tscircuit",
+        "logo": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36a71573-6616-468e-bca4-830d84fb3572_612x612.png",
+        "description": "They have very nice Contributor Program and, also for this Hacktoberfest, they are giving away hats and hoodies for different levels of contributions.",
+        "link": "https://blog.tscircuit.com/p/build-electronics-with-typescript"
+    },
+    {
+        "organization": "Modtoberfest 2024",
+        "logo": "https://modtoberfest.com/logo/svg/full/2024.svg",
+        "description": "Modtoberfest is an annual celebration of open source projects in the Minecraft Community! those with at least 4 PRs will be rewarded with a prize pack that includes awesome stickers and they will also be planting a tree.",
+        "link": "https://modtoberfest.com/"
+    },
+    {
+        "organization": "Flyte",
+        "logo": "https://docs.flyte.org/en/latest/_static/favicon-flyte-docs.png",
+        "description": "Every contribution registered in the form will receive a prize, the more contributions you make, and the more significant the contribution, the greater the prize.",
+        "link": "https://github.com/flyteorg/flyte/issues/5783"
+    },
+    {
+        "organization": "WernAI",
+        "logo": "https://cdn.prod.website-files.com/65e9b9dd95692faa9f5bb1c0/65f99924ac1b1f225c356d74_logo.png",
+        "description": "Will be providing Wren AI Exclusive Swag Pack! (T-shirts & Hat!) as a sign of appreciation to the contributors.",
+        "link": "https://getwren.ai/wren-ai-hacktoberfest-2024"
+    },
+    {
+        "organization": "DocsGPT",
+        "logo": "https://app.docsgpt.cloud/assets/cute_docsgpt3-CvY8uc7C.svg",
+        "description": "All contributors with accepted PRs will receive a cool Holopin! 🤩<br>🏆 Top 50 contributors will recieve a special T-shirt.",
+        "link": "https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md"
+    },
+    {
+        "organization": "Crawlee",
+        "logo": "https://crawlee.dev/img/crawlee-light.svg\" style=\"scale:1.5;padding:0.5rem;\"",
+        "description": "● 1-2 Accepted Pull Request: Crawlee Exclusive Sticker Sheet.<br>● 2 or more Accepted Pull Requests: Crawlee Exclusive Hoodie.",
+        "link": "https://github.com/apify/crawlee-python/issues/555"
+    },
+    {
+        "organization": "Design2code2live",
+        "logo": "https://avatars.githubusercontent.com/u/60876387?v=4",
+        "description": "Can you code? If provide you a design, then it's time to take part in Design2code2live by Arvind Kumar Vemula. This year he's giving away sticker packs for all the developers who contributes to design2code2live",
+        "link": "https://github.com/lmas3009/design2code2live"
+    },
+    {
+        "organization": "Langfuse",
+        "logo": "https://langfuse.com/langfuse_logo.svg\" style=\"scale:1.5;padding:0.5rem;\"",
+        "description": "Implement SDK features, improving UI/UX, adding support for new APIs, enhancing security, and creating example notebooks. <br> 🎁 Contributors with >= 2 accepted PRs will receive a pack of our new Langfuse stickers and get a chance to win a Langfuse t-shirt.",
+        "link": "https://github.com/langfuse/langfuse/issues/3548"
+    },
+    {
         "organization": "Formbricks",
         "logo": "https://formbricks.com/docs/_next/static/media/logo-light.e272c0f1.svg\" style=\"scale:2;padding:0.3rem;\"",
         "description": "Formbricks is taking part in oss.gg hackathon 2024 🕹️ and they have some really nice side quests and challenges waiting for you to win the prizes.",
