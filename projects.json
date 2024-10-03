@@ -1,5 +1,11 @@
 [
     {
+        "organization": "Formbricks",
+        "logo": "https://formbricks.com/docs/_next/static/media/logo-light.e272c0f1.svg\" style=\"scale:2;padding:0.3rem;\"",
+        "description": "Formbricks is taking part in oss.gg hackathon 2024 🕹️ and they have some really nice side quests and challenges waiting for you to win the prizes.",
+        "link": "https://formbricks.notion.site/Formbricks-Hacktoberfest-Side-Quests-Challenges-798855c705cc4474ba63ceefbe048abf?pvs=4"
+    },
+    {
         "organization": "Research Pocket",
         "logo": "https://avatars.githubusercontent.com/u/159684223?s=200&v=4",
         "description": "A simple self-hostable save-it-later tool that integrates with getpocket.com the web and terminal written in Rust.",
