@@ -1,5 +1,12 @@
 [
     {
+        "organization": "Gitlab",
+        "logo": "https://images.ctfassets.net/xz1dnu24egyd/1jFYOufBZ1ib2PLP9YI45r/5f67fe4a4b32a0ff5e012cb35e3272f3/gitlab-logo-100.svg",
+        "description": "GitLab Hackathon:<br>Get together with the GitLab community to contribute, learn, and win exciting prizes.🎉🎁",
+        "date": "21/10/24 to 28/10/24",
+        "link": "https://about.gitlab.com/community/hackathon/"
+    },
+    {
         "organization": "DocsGPT",
         "logo": "https://app.docsgpt.cloud/assets/cute_docsgpt3-CvY8uc7C.svg",
         "description": "LLM Document Analysis by LexEU Competition:<br>🏅 Prizes:<br> 1st Place: $200 + Special Holopin <br> 2nd Place: $100 + Special Holopin <br> 3rd Place: $50 + Special Holopin",
